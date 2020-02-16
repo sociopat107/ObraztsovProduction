@@ -1,0 +1,7 @@
+opencv/
+opencv_contrib/
+cc2.so
+*.mp4
+.idea/
+__pycache__/
+venv/
